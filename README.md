@@ -5,7 +5,7 @@ I'm a passionate software developer and writer on [Medium](https://henrysteinhau
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/C_Sharp-informational?style=flat&logo=c-sharp&logoColor=white&color=001482)
+![](https://img.shields.io/badge/C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=001482)
 ![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=001482)
 ![](https://img.shields.io/badge/Ktor-informational?style=flat&logo=kotlin&logoColor=white&color=001482)
 ![](https://img.shields.io/badge/MockK-informational?style=flat&logo=kotlin&logoColor=white&color=001482)
