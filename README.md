@@ -8,6 +8,7 @@ I'm a passionate software developer and writer on [Medium](https://henrysteinhau
 ![](https://img.shields.io/badge/C_Sharp-informational?style=flat&logo=c-sharp&logoColor=white&color=001482)
 ![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=001482)
 ![](https://img.shields.io/badge/Ktor-informational?style=flat&logo=kotlin&logoColor=white&color=001482)
+![](https://img.shields.io/badge/MockK-informational?style=flat&logo=kotlin&logoColor=white&color=001482)
 ![](https://img.shields.io/badge/Ruby-informational?style=flat&logo=ruby&logoColor=white&color=001482)
 ![](https://img.shields.io/badge/TS-informational?style=flat&logo=typescript&logoColor=white&color=001482)
 ![](https://img.shields.io/badge/JS-informational?style=flat&logo=javascript&logoColor=white&color=001482)
