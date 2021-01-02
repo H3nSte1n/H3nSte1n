@@ -5,13 +5,13 @@ I'm a passionate software developer and writer on [Medium](https://henrysteinhau
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=001482)
 ![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=001482)
 ![](https://img.shields.io/badge/Ktor-informational?style=flat&logo=kotlin&logoColor=white&color=001482)
 ![](https://img.shields.io/badge/MockK-informational?style=flat&logo=kotlin&logoColor=white&color=001482)
 ![](https://img.shields.io/badge/Ruby-informational?style=flat&logo=ruby&logoColor=white&color=001482)
 ![](https://img.shields.io/badge/TS-informational?style=flat&logo=typescript&logoColor=white&color=001482)
 ![](https://img.shields.io/badge/JS-informational?style=flat&logo=javascript&logoColor=white&color=001482)
+![](https://img.shields.io/badge/C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=001482)
 ![](https://img.shields.io/badge/Vue-informational?style=flat&logo=vue.js&logoColor=white&color=052AF7)
 ![](https://img.shields.io/badge/Ruby_on_Rails-informational?style=flat&logo=ruby-on-rails&logoColor=white&color=052AF7)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2E4159)
