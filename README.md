@@ -1,9 +1,9 @@
 
 <h1 align='center'>Hey there :wave:! My name is Henry Steinhauer.</h1>
 
-I'm a passionate software developer and writer on [Medium](https://henrysteinhauer.medium.com/). I love trying out programming languages, frameworks and libraries. I am currently working on an authentication service using Kotlin, Ktor and JSON Web Tokens.
+I'm a passionate software developer and writer on [Medium](https://henrysteinhauer.medium.com/) :pencil2:. I love trying out programming languages, frameworks and libraries. I am currently working on an authentication service using Kotlin, Ktor and JSON Web Tokens.
 
-## 🔧 Technologies & Tools
+## :wrench: Technologies & Tools
 
 ![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=001482)
 ![](https://img.shields.io/badge/Ktor-informational?style=flat&logo=kotlin&logoColor=white&color=001482)
@@ -32,6 +32,13 @@ I'm a passionate software developer and writer on [Medium](https://henrysteinhau
 ![](https://img.shields.io/badge/TWIG-informational?style=flat&logo=twig&logoColor=white&color=F7BD05)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=A3BF65)
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=A3BF65)
+
+## :mag: Stats
+
+<div>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=H3nSte1n&hide=stars&show_icons=true&theme=dark&count_private=true" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3nSte1n&langs_count=6&layout=compact&theme=dark" />
+</div>
 
 <!--
 Here are some ideas to get you started:
