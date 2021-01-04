@@ -36,7 +36,7 @@ I'm a passionate software developer and writer on [Medium](https://henrysteinhau
 ## :mag: Stats
 
 <div>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=H3nSte1n&hide=stars&show_icons=true&theme=dark&count_private=true" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=H3nSte1n&show_icons=true&theme=dark&count_private=true" />
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3nSte1n&langs_count=6&layout=compact&theme=dark" />
 </div>
 
