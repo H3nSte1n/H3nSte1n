@@ -24,6 +24,7 @@ I'm a passionate software developer and writer on [Medium](https://henrysteinhau
 ![](https://img.shields.io/badge/JSON_Web_Tokens-informational?style=flat&logo=json-web-tokens&logoColor=white&color=2E4159)
 ![](https://img.shields.io/badge/Google_Anayltics-informational?style=flat&logo=google-analytics&logoColor=white&color=2E4159)
 ![](https://img.shields.io/badge/Github_Actions-informational?style=flat&logo=github-actions&logoColor=white&color=2E4159)
+![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2E4159)
 ![](https://img.shields.io/badge/Webpack-informational?style=flat&logo=webpack&logoColor=white&color=2E4159)
 ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=F7BD05)
 ![](https://img.shields.io/badge/Newsletter_HTML-informational?style=flat&logo=html5&logoColor=white&color=F7BD05)
