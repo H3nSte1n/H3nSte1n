@@ -1,7 +1,7 @@
 
 <h1 align='center'>Hey there :wave:! My name is Henry Steinhauer.</h1>
 
-I'm a passionate software developer and writer on [Medium](https://henrysteinhauer.medium.com/) :pencil2:. I love trying out programming languages, frameworks and libraries. I am currently working on an authentication service using Kotlin, Ktor and JSON Web Tokens.
+I'm a passionate software developer and writer on [Medium](https://henrysteinhauer.medium.com/) :pencil2:. I love trying out programming languages, frameworks and libraries. I am currently working on a CRNN for handwritten text recognition. I mainly use Python and Tensorflow for this.
 
 ## :wrench: Technologies & Tools
 
