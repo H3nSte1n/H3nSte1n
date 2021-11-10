@@ -13,6 +13,7 @@ I'm a passionate software developer and writer on [Medium](https://henrysteinhau
 ![](https://img.shields.io/badge/JS-informational?style=flat&logo=javascript&logoColor=white&color=001482)
 ![](https://img.shields.io/badge/C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=001482)
 ![](https://img.shields.io/badge/Vue-informational?style=flat&logo=vue.js&logoColor=white&color=052AF7)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=052AF7)
 ![](https://img.shields.io/badge/Ruby_on_Rails-informational?style=flat&logo=ruby-on-rails&logoColor=white&color=052AF7)
 ![](https://img.shields.io/badge/OpenAPI-informational?style=flat&logo=openapi-initiative&logoColor=white&color=2E4159)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2E4159)
