@@ -5,6 +5,8 @@ I'm a passionate software developer and writer on [Medium](https://henrysteinhau
 
 ## :wrench: Technologies & Tools
 
+![](https://img.shields.io/badge/Go-informational?style=flat&logo=go&logoColor=white&color=001482)
+![](https://img.shields.io/badge/Gin-informational?style=flat&logo=go&logoColor=white&color=001482)
 ![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=001482)
 ![](https://img.shields.io/badge/Ktor-informational?style=flat&logo=kotlin&logoColor=white&color=001482)
 ![](https://img.shields.io/badge/MockK-informational?style=flat&logo=kotlin&logoColor=white&color=001482)
@@ -35,6 +37,7 @@ I'm a passionate software developer and writer on [Medium](https://henrysteinhau
 ![](https://img.shields.io/badge/TWIG-informational?style=flat&logo=twig&logoColor=white&color=F7BD05)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=A3BF65)
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=A3BF65)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=A3BF65)
 
 ## :mag: Stats
 
