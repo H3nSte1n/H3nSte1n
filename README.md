@@ -1,7 +1,7 @@
 
 <h1 align='center'>Hey there :wave:! My name is Henry Steinhauer.</h1>
 
-I'm a passionate software developer and writer on [Medium](https://henrysteinhauer.medium.com/) :pencil2:.  I love to explore new programming languages, design patterns, and frameworks. In my free time, I work on various private development projects and run, climb and read books.
+I'm a passionate software developer and writer on [Medium](https://henrysteinhauer.medium.com/) :pencil2:.  I love to explore new programming languages, design patterns, and frameworks. In my free time, I work on various private development projects and run, climb and play chess.
 
 ## :wrench: Technologies & Tools
 
